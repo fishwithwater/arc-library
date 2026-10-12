@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-12
+
+### Added
+
+- [Cookie consent](https://uiarc.dev/components/cookie-consent) (component): A consent bar that morphs into preferences and folds into a reopen button.
+
 ## 2026-10-11
 
 ### Added
