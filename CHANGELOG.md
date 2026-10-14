@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-14
+
+### Added
+
+- [Reactions](https://uiarc.dev/components/reactions) (component): Acknowledge a post in one tap, with counts that roll.
+
 ## 2026-10-12
 
 ### Added
