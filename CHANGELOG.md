@@ -2,6 +2,13 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-19
+
+### Added
+
+- [Reorderable list](https://uiarc.dev/components/reorderable-list) (component): Organize items with direct drag and drop.
+- [Scrub input](https://uiarc.dev/components/scrub-input) (component): A Figma-style number field: drag the label to scrub, or type values, units, and arithmetic.
+
 ## 2026-10-16
 
 ### Added
