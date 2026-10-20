@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-20
+
+### Added
+
+- [Onboarding checklist](https://uiarc.dev/components/onboarding-checklist) (component): Guide a new workspace through setup, one step at a time.
+
 ## 2026-10-19
 
 ### Added
