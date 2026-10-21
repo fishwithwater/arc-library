@@ -98,7 +98,7 @@ const physical = (visualDuration: number, bounce: number): Transition => {
   const root = 2 * Math.PI / (visualDuration * 1.2);
   return { type: "spring", stiffness: root * root, damping: 2 * (1 - bounce) * root, mass: 1 };
 };
-const GROW = physical(.48, .12), SHRINK = physical(.38, 0), STRETCH = physical(.3, .04), GLIDE = physical(.3, .1), SLIDE = physical(.4, 0);
+const GROW = physical(.48, 0), SHRINK = physical(.38, 0), STRETCH = physical(.3, 0), GLIDE = physical(.3, 0), SLIDE = physical(.4, 0);
 const TRIGGER_RADIUS = 18, PANEL_RADIUS = 26, WIDE_CELL = 36, WIDE_MIN = 712, EDGE = 8;
 
 const roll: Variants = {

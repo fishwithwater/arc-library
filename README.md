@@ -12,7 +12,7 @@
   <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-111111?style=flat-square"></a>
   <a href="https://uiarc.dev/docs/installation"><img alt="shadcn registry: @uiarc" src="https://img.shields.io/badge/shadcn%20registry-%40uiarc-111111?style=flat-square"></a>
   <a href="https://github.com/kuratlielia/arc-library/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/kuratlielia/arc-library/ci.yml?branch=main&style=flat-square&label=CI"></a>
-  <img alt="115 components" src="https://img.shields.io/badge/components-115-7747ff?style=flat-square">
+  <img alt="116 components" src="https://img.shields.io/badge/components-116-7747ff?style=flat-square">
   <img alt="22 blocks" src="https://img.shields.io/badge/blocks-22-7747ff?style=flat-square">
   <img alt="React 19" src="https://img.shields.io/badge/React-19-111111?style=flat-square">
 </p>
@@ -29,7 +29,7 @@
   <a href="https://uiarc.dev/pro"><b>Pro</b></a>
 </p>
 
-Arc is a library of React components and blocks with motion built in. Every item is plain source you own: CSS modules on a small set of design tokens, [Motion](https://motion.dev) for animation, keyboard support, and a reduced motion path for every animation. Install anything with the shadcn CLI or copy the files by hand. It works in Next.js and Vite, with or without Tailwind. This repository holds the free, open source part: **115 components and 22 blocks**, plus the design and motion tokens they share. Every one of them has a live preview at [uiarc.dev](https://uiarc.dev).
+Arc is a library of React components and blocks with motion built in. Every item is plain source you own: CSS modules on a small set of design tokens, [Motion](https://motion.dev) for animation, keyboard support, and a reduced motion path for every animation. Install anything with the shadcn CLI or copy the files by hand. It works in Next.js and Vite, with or without Tailwind. This repository holds the free, open source part: **116 components and 22 blocks**, plus the design and motion tokens they share. Every one of them has a live preview at [uiarc.dev](https://uiarc.dev).
 
 ## Showcase
 
@@ -263,9 +263,9 @@ More in the [theming docs](https://uiarc.dev/docs/theming) and [motion docs](htt
 
 ## Components
 
-115 free components, grouped as on the site. Click a name for the live preview and docs.
+116 free components, grouped as on the site. Click a name for the live preview and docs.
 
-[Actions](#actions) (19) · [Inputs](#inputs) (35) · [Disclosure](#disclosure) (14) · [Feedback](#feedback) (11) · [Data](#data) (31) · [Text](#text) (4) · [Special](#special) (1)
+[Actions](#actions) (19) · [Inputs](#inputs) (36) · [Disclosure](#disclosure) (14) · [Feedback](#feedback) (11) · [Data](#data) (31) · [Text](#text) (4) · [Special](#special) (1)
 
 ### Actions
 
@@ -354,6 +354,7 @@ More in the [theming docs](https://uiarc.dev/docs/theming) and [motion docs](htt
 | [Radio group](https://uiarc.dev/components/radio-group) | Choose one option from a visible set. | `npx shadcn@latest add @uiarc/radio-group` |
 | [Switch](https://uiarc.dev/components/switch) | A tactile toggle for settings that take effect immediately. | `npx shadcn@latest add @uiarc/switch` |
 | [Segmented control](https://uiarc.dev/components/segmented-control) | Switch between a small set of related views. | `npx shadcn@latest add @uiarc/segmented-control` |
+| [Rating](https://uiarc.dev/components/rating) | A simple, accessible way to capture a numeric opinion. | `npx shadcn@latest add @uiarc/rating` |
 
 **Sliders**
 
@@ -701,7 +702,7 @@ public/r/<id>.json           prebuilt registry items, one per component or block
 
 ## Arc Pro
 
-[Arc Pro](https://uiarc.dev/pro) adds 131 more components and blocks on top of this library: galleries like the Cover flow above, wallet and finance surfaces, richer charts, and complete product screens. They follow the same rules as everything here: plain source you own, both themes, keyboard support and a reduced motion path.
+[Arc Pro](https://uiarc.dev/pro) adds 153 more components and blocks on top of this library: galleries like the Cover flow above, wallet and finance surfaces, richer charts, and complete product screens. They follow the same rules as everything here: plain source you own, both themes, keyboard support and a reduced motion path.
 
 - Source for every Pro component and block, installed with the same shadcn CLI through a personal token, or through the MCP server
 - Every new Pro release, plus fixes and updates to the pieces you already have

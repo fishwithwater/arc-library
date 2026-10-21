@@ -69,7 +69,7 @@ const physical = (visualDuration: number, bounce: number): Transition => {
   const root = 2 * Math.PI / (visualDuration * 1.2);
   return { type: "spring", stiffness: root * root, damping: 2 * (1 - bounce) * root, mass: 1, restDelta: .01, restSpeed: .5 };
 };
-const settle = physical(.34, .18), shake = physical(.3, .42);
+const settle = physical(.34, 0), shake = physical(.3, 0);
 
 const decimalsOf = (value: number) => {
   const text = String(value);

@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-21
+
+### Added
+
+- [Rating](https://uiarc.dev/components/rating) (component): A simple, accessible way to capture a numeric opinion.
+
 ## 2026-10-20
 
 ### Added
