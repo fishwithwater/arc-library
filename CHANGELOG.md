@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-22
+
+### Added
+
+- [Range histogram slider](https://uiarc.dev/components/range-histogram-slider) (component): A price range over a live histogram of the data, lighting the bars inside the range and settling on bar edges.
+
 ## 2026-10-21
 
 ### Added
