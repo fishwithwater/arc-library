@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-23
+
+### Added
+
+- [Action swap](https://uiarc.dev/components/action-swap) (component): Swap an action label while preserving its place and intent.
+
 ## 2026-10-22
 
 ### Added
