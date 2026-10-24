@@ -2,6 +2,12 @@
 
 New free components and blocks ship regularly. Every entry links to its live preview on uiarc.dev.
 
+## 2026-10-24
+
+### Added
+
+- [Tree table](https://uiarc.dev/components/tree-table) (component): A table with nested rows, tri-state selection, hierarchy-preserving sort, and lazy-loaded children.
+
 ## 2026-10-23
 
 ### Added

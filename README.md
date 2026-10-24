@@ -12,7 +12,7 @@
   <a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-111111?style=flat-square"></a>
   <a href="https://uiarc.dev/docs/installation"><img alt="shadcn registry: @uiarc" src="https://img.shields.io/badge/shadcn%20registry-%40uiarc-111111?style=flat-square"></a>
   <a href="https://github.com/kuratlielia/arc-library/actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/kuratlielia/arc-library/ci.yml?branch=main&style=flat-square&label=CI"></a>
-  <img alt="118 components" src="https://img.shields.io/badge/components-118-7747ff?style=flat-square">
+  <img alt="119 components" src="https://img.shields.io/badge/components-119-7747ff?style=flat-square">
   <img alt="22 blocks" src="https://img.shields.io/badge/blocks-22-7747ff?style=flat-square">
   <img alt="React 19" src="https://img.shields.io/badge/React-19-111111?style=flat-square">
 </p>
@@ -29,7 +29,7 @@
   <a href="https://uiarc.dev/pro"><b>Pro</b></a>
 </p>
 
-Arc is a library of React components and blocks with motion built in. Every item is plain source you own: CSS modules on a small set of design tokens, [Motion](https://motion.dev) for animation, keyboard support, and a reduced motion path for every animation. Install anything with the shadcn CLI or copy the files by hand. It works in Next.js and Vite, with or without Tailwind. This repository holds the free, open source part: **118 components and 22 blocks**, plus the design and motion tokens they share. Every one of them has a live preview at [uiarc.dev](https://uiarc.dev).
+Arc is a library of React components and blocks with motion built in. Every item is plain source you own: CSS modules on a small set of design tokens, [Motion](https://motion.dev) for animation, keyboard support, and a reduced motion path for every animation. Install anything with the shadcn CLI or copy the files by hand. It works in Next.js and Vite, with or without Tailwind. This repository holds the free, open source part: **119 components and 22 blocks**, plus the design and motion tokens they share. Every one of them has a live preview at [uiarc.dev](https://uiarc.dev).
 
 ## Showcase
 
@@ -263,9 +263,9 @@ More in the [theming docs](https://uiarc.dev/docs/theming) and [motion docs](htt
 
 ## Components
 
-118 free components, grouped as on the site. Click a name for the live preview and docs.
+119 free components, grouped as on the site. Click a name for the live preview and docs.
 
-[Actions](#actions) (20) · [Inputs](#inputs) (37) · [Disclosure](#disclosure) (14) · [Feedback](#feedback) (11) · [Data](#data) (31) · [Text](#text) (4) · [Special](#special) (1)
+[Actions](#actions) (20) · [Inputs](#inputs) (37) · [Disclosure](#disclosure) (14) · [Feedback](#feedback) (11) · [Data](#data) (32) · [Text](#text) (4) · [Special](#special) (1)
 
 ### Actions
 
@@ -478,6 +478,7 @@ More in the [theming docs](https://uiarc.dev/docs/theming) and [motion docs](htt
 | Component | Description | Install |
 | --- | --- | --- |
 | [Sortable data table](https://uiarc.dev/components/sortable-data-table) | Compare structured records with sortable columns. | `npx shadcn@latest add @uiarc/sortable-data-table` |
+| [Tree table](https://uiarc.dev/components/tree-table) | A table with nested rows, tri-state selection, hierarchy-preserving sort, and lazy-loaded children. | `npx shadcn@latest add @uiarc/tree-table` |
 | [Tree view](https://uiarc.dev/components/tree-view) | Navigate nested folders and structured content. | `npx shadcn@latest add @uiarc/tree-view` |
 | [Reorderable list](https://uiarc.dev/components/reorderable-list) | Organize items with direct drag and drop. | `npx shadcn@latest add @uiarc/reorderable-list` |
 | [Filter toolbar](https://uiarc.dev/components/filter-toolbar) | Keep collection filters close and easy to reset. | `npx shadcn@latest add @uiarc/filter-toolbar` |
@@ -704,7 +705,7 @@ public/r/<id>.json           prebuilt registry items, one per component or block
 
 ## Arc Pro
 
-[Arc Pro](https://uiarc.dev/pro) adds 155 more components and blocks on top of this library: galleries like the Cover flow above, wallet and finance surfaces, richer charts, and complete product screens. They follow the same rules as everything here: plain source you own, both themes, keyboard support and a reduced motion path.
+[Arc Pro](https://uiarc.dev/pro) adds 156 more components and blocks on top of this library: galleries like the Cover flow above, wallet and finance surfaces, richer charts, and complete product screens. They follow the same rules as everything here: plain source you own, both themes, keyboard support and a reduced motion path.
 
 - Source for every Pro component and block, installed with the same shadcn CLI through a personal token, or through the MCP server
 - Every new Pro release, plus fixes and updates to the pieces you already have
