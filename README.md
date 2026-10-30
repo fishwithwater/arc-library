@@ -131,13 +131,26 @@ A few favorites, recorded live from [uiarc.dev](https://uiarc.dev). Items marked
 
 ## Install
 
-For this fork, install directly from GitHub:
+For this fork, configure the generated JSON registry in `components.json`:
 
-```sh
-npx shadcn@latest add fishwithwater/arc-library/arc-foundation fishwithwater/arc-library/button
+```json
+{
+  "registries": {
+    "@myarc": "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/{name}.json"
+  }
+}
 ```
 
-The `@uiarc` namespace and `uiarc.dev` installation examples below refer to the upstream distribution. Use `fishwithwater/arc-library/<item>` for this fork.
+```sh
+pnpm dlx shadcn@latest add @myarc/arc-foundation @myarc/button
+```
+
+Use the generated JSON items for this fork: their imports are rewritten for the
+installed `components/arc` layout. GitHub source addresses such as
+`fishwithwater/arc-library/button` read repository source instead and bypass this
+rewrite. Internal dependencies also use the generated JSON URLs.
+
+The `@uiarc` namespace and `uiarc.dev` installation examples below refer to the upstream distribution.
 
 ### Requirements
 

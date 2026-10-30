@@ -82,5 +82,7 @@ npm run build:registry
 npm run check
 ```
 
-Commit changed install payloads in `public/r` alongside their source. Internal registry dependencies resolve from `fishwithwater/arc-library`, so
-installing this fork does not pull components from the upstream registry.
+Commit changed install payloads in `public/r` alongside their source. Internal registry dependencies use the Raw GitHub URLs of this fork’s generated
+`public/r/*.json` files. Do not replace them with GitHub source item addresses:
+the generated payloads rewrite imports for the installed layout, whereas source
+addresses preserve the repository layout.

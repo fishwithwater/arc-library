@@ -12,6 +12,7 @@ import { exportedNames, importSpecifiers, installTarget, isPackageName, withRela
 
 const registry = JSON.parse(await readFile("registry.json", "utf8"));
 const problems = [];
+const itemNames = new Set(registry.items.map(item => item.name));
 const exists = async file => { try { return (await stat(file)).isFile(); } catch { return false; } };
 
 async function findFile(importPath) {
@@ -36,6 +37,17 @@ for (const item of registry.items) {
   if (!(await exists(built))) { problems.push(`${item.name}: missing ${built}`); continue; }
   const prebuilt = JSON.parse(await readFile(built, "utf8"));
   if (prebuilt.name !== item.name) problems.push(`${built}: name is ${prebuilt.name}`);
+  if (JSON.stringify(prebuilt.registryDependencies ?? []) !== JSON.stringify(item.registryDependencies ?? [])) {
+    problems.push(`${built}: registry dependencies differ from registry.json`);
+  }
+  for (const dependency of item.registryDependencies ?? []) {
+    // GitHub source installation bypasses withRelativeImports and leaves repo-relative
+    // imports in files installed under components/arc. Internal items must use built JSON.
+    const githubItem = dependency.match(/^[\w.-]+\/[\w.-]+\/([\w.-]+)$/);
+    if (githubItem && itemNames.has(githubItem[1])) {
+      problems.push(`${item.name}: ${dependency} bypasses installed import rewriting; use its generated JSON URL`);
+    }
+  }
   for (const dependency of prebuilt.dependencies ?? []) if (!isPackageName(dependency)) problems.push(`${item.name}: ${JSON.stringify(dependency)} is not an npm package name`);
   for (const file of item.files) {
     if (!(await exists(file.path))) { problems.push(`${item.name}: missing source ${file.path}`); continue; }

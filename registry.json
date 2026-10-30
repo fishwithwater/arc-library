@@ -13,7 +13,7 @@
       ],
       "dependencies": [],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -62,7 +62,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -101,7 +101,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -140,7 +140,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -180,7 +180,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -220,7 +220,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -261,8 +261,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/tooltip"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/tooltip.json"
       ],
       "files": [
         {
@@ -312,7 +312,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -354,7 +354,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -393,7 +393,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -432,7 +432,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -477,7 +477,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -516,8 +516,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json"
       ],
       "files": [
         {
@@ -567,8 +567,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json"
       ],
       "files": [
         {
@@ -618,8 +618,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json"
       ],
       "files": [
         {
@@ -669,8 +669,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json"
       ],
       "files": [
         {
@@ -719,7 +719,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -762,8 +762,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/avatar"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar.json"
       ],
       "files": [
         {
@@ -816,7 +816,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -854,7 +854,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -894,7 +894,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -933,7 +933,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -972,7 +972,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1011,7 +1011,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1050,7 +1050,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1089,7 +1089,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1127,7 +1127,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1166,7 +1166,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1205,7 +1205,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1244,7 +1244,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1282,7 +1282,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1320,7 +1320,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1359,7 +1359,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1403,8 +1403,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/calendar"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/calendar.json"
       ],
       "files": [
         {
@@ -1458,7 +1458,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1498,7 +1498,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1538,7 +1538,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1613,7 +1613,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1653,7 +1653,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1692,7 +1692,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1731,7 +1731,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1775,7 +1775,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1814,7 +1814,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1853,7 +1853,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1892,7 +1892,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1930,7 +1930,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -1968,7 +1968,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2008,7 +2008,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2046,8 +2046,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/animated-counter"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/animated-counter.json"
       ],
       "files": [
         {
@@ -2096,7 +2096,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2135,7 +2135,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2174,7 +2174,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2213,7 +2213,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2252,7 +2252,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2290,7 +2290,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2328,7 +2328,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2366,7 +2366,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2405,8 +2405,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/copy-button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/copy-button.json"
       ],
       "files": [
         {
@@ -2460,7 +2460,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2496,7 +2496,7 @@
       ],
       "dependencies": [],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2535,7 +2535,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2574,7 +2574,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2613,7 +2613,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2653,7 +2653,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2694,7 +2694,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2735,7 +2735,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2774,7 +2774,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2813,7 +2813,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2851,7 +2851,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2889,7 +2889,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2928,7 +2928,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -2968,7 +2968,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3007,7 +3007,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3046,7 +3046,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3087,7 +3087,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3127,7 +3127,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3167,7 +3167,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3207,7 +3207,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3247,7 +3247,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3287,7 +3287,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3327,7 +3327,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3367,7 +3367,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3407,7 +3407,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3446,7 +3446,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3485,7 +3485,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3525,7 +3525,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3565,7 +3565,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3603,7 +3603,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3642,7 +3642,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3680,7 +3680,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3719,7 +3719,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3763,8 +3763,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/text-morph"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/text-morph.json"
       ],
       "files": [
         {
@@ -3813,7 +3813,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3851,7 +3851,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3889,7 +3889,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3927,7 +3927,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -3966,7 +3966,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4005,7 +4005,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4044,7 +4044,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4083,7 +4083,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4122,7 +4122,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4161,7 +4161,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4201,9 +4201,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/switch"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/switch.json"
       ],
       "files": [
         {
@@ -4262,7 +4262,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4301,7 +4301,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4339,7 +4339,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4379,8 +4379,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/checkbox"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/checkbox.json"
       ],
       "files": [
         {
@@ -4429,7 +4429,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4468,7 +4468,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4507,7 +4507,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4546,7 +4546,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4585,7 +4585,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4624,7 +4624,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4663,7 +4663,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4701,8 +4701,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/animated-counter"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/animated-counter.json"
       ],
       "files": [
         {
@@ -4784,7 +4784,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4823,7 +4823,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -4939,11 +4939,11 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/checkbox",
-        "fishwithwater/arc-library/input",
-        "fishwithwater/arc-library/password-field"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/checkbox.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/input.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/password-field.json"
       ],
       "files": [
         {
@@ -5018,8 +5018,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json"
       ],
       "files": [
         {
@@ -5065,10 +5065,10 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/segmented-control",
-        "fishwithwater/arc-library/switch"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/switch.json"
       ],
       "files": [
         {
@@ -5133,7 +5133,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -5169,8 +5169,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/avatar"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar.json"
       ],
       "files": [
         {
@@ -5220,7 +5220,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -5254,7 +5254,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -5289,8 +5289,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/copy-button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/copy-button.json"
       ],
       "files": [
         {
@@ -5345,11 +5345,11 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/avatar",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/input",
-        "fishwithwater/arc-library/otp-input"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/input.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/otp-input.json"
       ],
       "files": [
         {
@@ -5436,13 +5436,13 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/animated-counter",
-        "fishwithwater/arc-library/avatar",
-        "fishwithwater/arc-library/avatar-group",
-        "fishwithwater/arc-library/badge",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/progress"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/animated-counter.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar-group.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/badge.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/progress.json"
       ],
       "files": [
         {
@@ -5546,8 +5546,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json"
       ],
       "files": [
         {
@@ -5597,10 +5597,10 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/input",
-        "fishwithwater/arc-library/otp-input"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/input.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/otp-input.json"
       ],
       "files": [
         {
@@ -5665,8 +5665,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/segmented-control"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json"
       ],
       "files": [
         {
@@ -5716,9 +5716,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/segmented-control"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json"
       ],
       "files": [
         {
@@ -5773,13 +5773,13 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/avatar",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/copy-button",
-        "fishwithwater/arc-library/line-chart",
-        "fishwithwater/arc-library/segmented-control",
-        "fishwithwater/arc-library/sparkline"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/copy-button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/line-chart.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/sparkline.json"
       ],
       "files": [
         {
@@ -5949,9 +5949,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/search-field",
-        "fishwithwater/arc-library/segmented-control"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/search-field.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json"
       ],
       "files": [
         {
@@ -6006,13 +6006,13 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/avatar",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/copy-button",
-        "fishwithwater/arc-library/input",
-        "fishwithwater/arc-library/segmented-control",
-        "fishwithwater/arc-library/textarea"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/avatar.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/copy-button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/input.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/textarea.json"
       ],
       "files": [
         {
@@ -6122,7 +6122,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -6162,7 +6162,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json"
       ],
       "files": [
         {
@@ -6201,8 +6201,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/segmented-control"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json"
       ],
       "files": [
         {
@@ -6257,9 +6257,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/button",
-        "fishwithwater/arc-library/segmented-control"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/button.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json"
       ],
       "files": [
         {
@@ -6325,10 +6325,10 @@
         "motion"
       ],
       "registryDependencies": [
-        "fishwithwater/arc-library/arc-motion-tokens",
-        "fishwithwater/arc-library/animated-counter",
-        "fishwithwater/arc-library/segmented-control",
-        "fishwithwater/arc-library/switch"
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/arc-motion-tokens.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/animated-counter.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/segmented-control.json",
+        "https://raw.githubusercontent.com/fishwithwater/arc-library/main/public/r/switch.json"
       ],
       "files": [
         {
