@@ -32,7 +32,7 @@
 .action { display: inline-flex; height: 36px; align-items: center; justify-content: center; border: 1px solid transparent; border-radius: var(--radius-control); padding: 0 14px; font: inherit; font-size: var(--text-sm); font-weight: 500; text-decoration: none; white-space: nowrap; cursor: pointer; -webkit-tap-highlight-color: transparent; transition: transform var(--duration-fast) var(--ease-standard), background-color var(--duration-fast) var(--ease-standard), opacity var(--duration-fast) var(--ease-standard); }
 .action:active { transform: scale(.97); }
 .secondary { background: none; color: var(--text-secondary); }
-.primary { background: var(--foreground); color: var(--background); }
+.primary { background: var(--primary); color: var(--primary-foreground); }
 @media (hover: hover) and (pointer: fine) {
   .secondary:hover { background: var(--surface-muted); color: var(--foreground); }
   .primary:hover { opacity: .9; }

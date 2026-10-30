@@ -89,13 +89,13 @@
 /* The only coloured thing in the control: danger for a destructive answer, the accent for a reversible one. */
 .confirm { overflow: clip; background: color-mix(in oklab, var(--danger) 13%, transparent); color: var(--danger); }
 .confirm:active { background: color-mix(in oklab, var(--danger) 22%, transparent); transition-duration: 0ms; }
-.root[data-tone="neutral"] .confirm { background: var(--accent); color: var(--accent-foreground); }
-.root[data-tone="neutral"] .confirm:active { background: var(--accent-strong); }
+.root[data-tone="neutral"] .confirm { background: var(--primary); color: var(--primary-foreground); }
+.root[data-tone="neutral"] .confirm:active { background: var(--primary-active); }
 
 /* Hold: a solid copy of the button, label and all, revealed from the left as the hold fills; the label inverts as the edge passes. */
 .root[data-mode="hold"] .confirm { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
 .fill { position: absolute; inset: 0; display: inline-flex; align-items: center; justify-content: center; background: var(--danger); color: var(--background); pointer-events: none; }
-.root[data-tone="neutral"] .fill { background: var(--accent-strong); color: var(--accent-foreground); }
+.root[data-tone="neutral"] .fill { background: var(--primary-hover); color: var(--primary-foreground); }
 
 .status { gap: 8px; padding: 0 10px 0 12px; color: var(--foreground); font-weight: 500; font-variant-numeric: tabular-nums; }
 .status > svg { flex: none; }
@@ -113,7 +113,7 @@
 .ring { width: 16px; height: 16px; }
 .ringTrack { stroke: var(--border); }
 .ringFill { stroke: var(--danger); }
-.root[data-tone="neutral"] .ringFill { stroke: var(--accent); }
+.root[data-tone="neutral"] .ringFill { stroke: var(--primary); }
 /* Seconds keep one tabular width while the digits swap. */
 .seconds { display: inline-grid; min-width: 1ch; color: var(--foreground); font-variant-numeric: tabular-nums; }
 .digit { grid-area: 1 / 1; }
@@ -127,13 +127,13 @@
   .trigger:hover:not(:disabled):not(:active) { background: color-mix(in oklab, var(--foreground) 5%, transparent); }
   .secondary:hover:not(:active) { background: color-mix(in oklab, var(--foreground) 7%, transparent); color: var(--foreground); }
   .confirm:hover:not(:active) { background: color-mix(in oklab, var(--danger) 18%, transparent); }
-  .root[data-tone="neutral"] .confirm:hover:not(:active) { background: var(--accent-strong); }
+  .root[data-tone="neutral"] .confirm:hover:not(:active) { background: var(--primary-hover); }
 }
 /* Keyboard focus reads through fill, never a ring. */
 .trigger:focus-visible { background: color-mix(in oklab, var(--foreground) 6%, transparent); }
 .secondary:focus-visible { background: color-mix(in oklab, var(--foreground) 8%, transparent); color: var(--foreground); }
 .confirm:focus-visible { background: color-mix(in oklab, var(--danger) 20%, transparent); }
-.root[data-tone="neutral"] .confirm:focus-visible { background: var(--accent-strong); }
+.root[data-tone="neutral"] .confirm:focus-visible { background: var(--primary-hover); }
 
 @media (prefers-reduced-motion: reduce) {
   .surface, .surface::after, .trigger, .secondary, .confirm { transition-duration: 0ms; }

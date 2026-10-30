@@ -38,11 +38,11 @@
 .control[data-tone="quiet"] { border-color: transparent; background: transparent; color: var(--text-secondary); }
 @media (hover: hover) and (pointer: fine) {
   .control:not([aria-disabled]):hover { background: var(--surface-muted); }
-  .control[data-tone="primary"]:not([aria-disabled]):hover { border-color: var(--accent-strong); background: var(--accent-strong); }
+  .control[data-tone="primary"]:not([aria-disabled]):hover { border-color: var(--primary-hover); background: var(--primary-hover); }
   .control[data-tone="quiet"]:not([aria-disabled]):hover { color: var(--foreground); }
 }
 .control:not([aria-disabled]):active { background: var(--surface-muted); }
-.control[data-tone="primary"]:not([aria-disabled]):active { border-color: var(--accent-strong); background: var(--accent-strong); }
+.control[data-tone="primary"]:not([aria-disabled]):active { border-color: var(--primary-hover); background: var(--primary-hover); }
 .control[aria-disabled] { cursor: default; opacity: .42; }
 
 .srOnly { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }

@@ -10,7 +10,7 @@
 
 /* Subscribe */
 .subscribeWrap { position: relative; flex: none; padding-top: 2px; }
-.subscribe { height: 38px; overflow: hidden; border: 1px solid var(--foreground); border-radius: var(--radius-pill); background: var(--foreground); color: var(--background); transition: background-color var(--duration-standard) var(--ease-standard), border-color var(--duration-standard) var(--ease-standard), color var(--duration-standard) var(--ease-standard); }
+.subscribe { height: 38px; overflow: hidden; border: 1px solid var(--primary); border-radius: var(--radius-pill); background: var(--primary); color: var(--primary-foreground); transition: background-color var(--duration-standard) var(--ease-standard), border-color var(--duration-standard) var(--ease-standard), color var(--duration-standard) var(--ease-standard); }
 .subscribe[data-state="editing"] { border-color: var(--border-strong); background: var(--surface); color: var(--foreground); }
 .subscribe[data-state="done"] { border-color: var(--border); background: var(--surface-muted); color: var(--foreground); }
 .subscribe[data-error] { border-color: var(--danger); }
@@ -19,7 +19,7 @@
 .subscribeForm { display: flex; align-items: center; gap: 6px; height: 100%; padding: 0 4px 0 15px; }
 .subscribeForm input { width: 188px; min-width: 0; height: 100%; padding: 0; border: 0; background: transparent; color: var(--foreground); font: var(--text-sm)/1 var(--font-body); outline: none; }
 .subscribeForm input::placeholder { color: var(--text-muted); }
-.subscribeSubmit { display: grid; flex: none; place-items: center; width: 28px; height: 28px; padding: 0; border: 0; border-radius: 50%; background: var(--foreground); color: var(--background); cursor: pointer; outline: none; transition: transform var(--duration-instant) var(--ease-standard); }
+.subscribeSubmit { display: grid; flex: none; place-items: center; width: 28px; height: 28px; padding: 0; border: 0; border-radius: 50%; background: var(--primary); color: var(--primary-foreground); cursor: pointer; outline: none; transition: transform var(--duration-instant) var(--ease-standard); }
 .subscribeSubmit:active { transform: scale(.94); }
 .subscribeDone { display: inline-flex; align-items: center; gap: 7px; height: 100%; padding: 0 5px 0 13px; font-size: var(--text-sm); font-weight: 500; white-space: nowrap; }
 .drawnCheck { flex: none; color: var(--success); }

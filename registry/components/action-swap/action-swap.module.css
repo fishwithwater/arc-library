@@ -16,7 +16,7 @@
 .danger { border-color: color-mix(in oklab, var(--danger) 25%, var(--border)); background: color-mix(in oklab, var(--danger) 10%, var(--surface)); color: var(--foreground); }
 @media (hover: hover) and (pointer: fine) {
   .neutral:hover:not(:disabled, [aria-busy="true"]) { border-color: var(--text-secondary); background: var(--text-secondary); }
-  .accent:hover:not(:disabled, [aria-busy="true"]) { border-color: var(--accent-strong); background: var(--accent-strong); }
+  .accent:hover:not(:disabled, [aria-busy="true"]) { border-color: var(--primary-hover); background: var(--primary-hover); }
   .quiet:hover:not(:disabled, [aria-busy="true"]) { border-color: var(--border-strong); background: var(--surface-muted); }
   .success:hover:not(:disabled) { border-color: color-mix(in oklab, var(--success) 42%, var(--border)); }
   .warning:hover:not(:disabled) { border-color: color-mix(in oklab, var(--warning) 48%, var(--border)); }

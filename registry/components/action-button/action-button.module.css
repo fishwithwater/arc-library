@@ -1,6 +1,6 @@
 /* The button hugs its label: labels crossfade in place and the width follows on a spring with no overshoot, so no state ever snaps the layout. */
-.button { position: relative; display: inline-flex; min-height: var(--control-height-md); align-items: center; justify-content: center; overflow: hidden; padding: 0 var(--space-5); border: 1px solid var(--foreground); border-radius: var(--radius-control); background: var(--foreground); color: var(--background); font: inherit; font-size: var(--text-sm); font-weight: 500; line-height: var(--leading-body); cursor: pointer; -webkit-tap-highlight-color: transparent; transition: background var(--duration-fast) var(--ease-standard), border-color var(--duration-fast) var(--ease-standard), color var(--duration-fast) var(--ease-standard), box-shadow var(--duration-fast) var(--ease-standard), opacity var(--duration-fast) var(--ease-standard); }
-@media (hover: hover) and (pointer: fine) { .button:hover:not(:disabled) { box-shadow: var(--shadow-resting); } }
+.button { position: relative; display: inline-flex; min-height: var(--control-height-md); align-items: center; justify-content: center; overflow: hidden; padding: 0 var(--space-5); border: 1px solid var(--primary); border-radius: var(--radius-control); background: var(--primary); color: var(--primary-foreground); font: inherit; font-size: var(--text-sm); font-weight: 500; line-height: var(--leading-body); cursor: pointer; -webkit-tap-highlight-color: transparent; transition: background var(--duration-fast) var(--ease-standard), border-color var(--duration-fast) var(--ease-standard), color var(--duration-fast) var(--ease-standard), box-shadow var(--duration-fast) var(--ease-standard), opacity var(--duration-fast) var(--ease-standard); }
+@media (hover: hover) and (pointer: fine) { .button:hover:not(:disabled) { background: var(--primary-hover); border-color: var(--primary-hover); box-shadow: var(--shadow-resting); } }
 .button:disabled { cursor: not-allowed; }
 .button:disabled:not([data-state="pending"]) { opacity: .7; }
 .button[data-state="pending"] { cursor: progress; }
@@ -18,3 +18,5 @@
 .visuallyHidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 @keyframes spin { to { transform: rotate(360deg); } }
 @media (prefers-reduced-motion: reduce) { .button { transition: none; } .spinner { animation: none; } }
+
+.button:active:not(:disabled) { background: var(--primary-active); border-color: var(--primary-active); }

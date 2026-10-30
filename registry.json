@@ -13,13 +13,18 @@
       ],
       "dependencies": [],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
           "path": "registry/foundation.css",
           "type": "registry:component",
           "target": "@components/arc/foundation.css"
+        },
+        {
+          "path": "registry/theme-colors.css",
+          "type": "registry:component",
+          "target": "@components/arc/theme-colors.css"
         }
       ]
     },
@@ -57,7 +62,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -96,7 +101,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -135,7 +140,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -175,7 +180,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -215,7 +220,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -256,8 +261,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/tooltip.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/tooltip"
       ],
       "files": [
         {
@@ -307,7 +312,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -349,7 +354,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -388,7 +393,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -427,7 +432,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -472,7 +477,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -511,8 +516,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button"
       ],
       "files": [
         {
@@ -562,8 +567,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button"
       ],
       "files": [
         {
@@ -613,8 +618,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button"
       ],
       "files": [
         {
@@ -664,8 +669,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button"
       ],
       "files": [
         {
@@ -714,7 +719,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -757,8 +762,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/avatar.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/avatar"
       ],
       "files": [
         {
@@ -811,7 +816,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -849,7 +854,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -889,7 +894,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -928,7 +933,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -967,7 +972,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1006,7 +1011,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1045,7 +1050,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1084,7 +1089,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1122,7 +1127,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1161,7 +1166,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1200,7 +1205,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1239,7 +1244,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1277,7 +1282,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1315,7 +1320,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1354,7 +1359,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1398,8 +1403,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/calendar.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/calendar"
       ],
       "files": [
         {
@@ -1453,7 +1458,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1493,7 +1498,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1533,7 +1538,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1608,7 +1613,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1648,7 +1653,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1687,7 +1692,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1726,7 +1731,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1770,7 +1775,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1809,7 +1814,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1848,7 +1853,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1887,7 +1892,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1925,7 +1930,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -1963,7 +1968,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2003,7 +2008,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2041,8 +2046,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/animated-counter.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/animated-counter"
       ],
       "files": [
         {
@@ -2091,7 +2096,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2130,7 +2135,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2169,7 +2174,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2208,7 +2213,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2247,7 +2252,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2285,7 +2290,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2323,7 +2328,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2361,7 +2366,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2400,8 +2405,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/copy-button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/copy-button"
       ],
       "files": [
         {
@@ -2455,7 +2460,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2491,7 +2496,7 @@
       ],
       "dependencies": [],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2530,7 +2535,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2569,7 +2574,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2608,7 +2613,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2648,7 +2653,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2689,7 +2694,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2730,7 +2735,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2769,7 +2774,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2808,7 +2813,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2846,7 +2851,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2884,7 +2889,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2923,7 +2928,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -2963,7 +2968,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3002,7 +3007,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3041,7 +3046,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3082,7 +3087,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3122,7 +3127,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3162,7 +3167,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3202,7 +3207,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3242,7 +3247,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3282,7 +3287,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3322,7 +3327,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3362,7 +3367,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3402,7 +3407,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3441,7 +3446,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3480,7 +3485,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3520,7 +3525,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3560,7 +3565,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3598,7 +3603,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3637,7 +3642,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3675,7 +3680,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3714,7 +3719,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3758,8 +3763,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/text-morph.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/text-morph"
       ],
       "files": [
         {
@@ -3808,7 +3813,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3846,7 +3851,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3884,7 +3889,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3922,7 +3927,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -3961,7 +3966,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4000,7 +4005,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4039,7 +4044,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4078,7 +4083,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4117,7 +4122,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4156,7 +4161,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4196,9 +4201,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/switch.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/switch"
       ],
       "files": [
         {
@@ -4257,7 +4262,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4296,7 +4301,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4334,7 +4339,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4374,8 +4379,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/checkbox.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/checkbox"
       ],
       "files": [
         {
@@ -4424,7 +4429,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4463,7 +4468,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4502,7 +4507,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4541,7 +4546,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4580,7 +4585,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4619,7 +4624,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4658,7 +4663,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4696,8 +4701,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/animated-counter.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/animated-counter"
       ],
       "files": [
         {
@@ -4779,7 +4784,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4818,7 +4823,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -4934,11 +4939,11 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/checkbox.json",
-        "https://uiarc.dev/r/input.json",
-        "https://uiarc.dev/r/password-field.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/checkbox",
+        "fishwithwater/arc-library/input",
+        "fishwithwater/arc-library/password-field"
       ],
       "files": [
         {
@@ -5013,8 +5018,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button"
       ],
       "files": [
         {
@@ -5060,10 +5065,10 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/segmented-control.json",
-        "https://uiarc.dev/r/switch.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/segmented-control",
+        "fishwithwater/arc-library/switch"
       ],
       "files": [
         {
@@ -5128,7 +5133,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -5164,8 +5169,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/avatar.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/avatar"
       ],
       "files": [
         {
@@ -5215,7 +5220,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -5249,7 +5254,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -5284,8 +5289,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/copy-button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/copy-button"
       ],
       "files": [
         {
@@ -5340,11 +5345,11 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/avatar.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/input.json",
-        "https://uiarc.dev/r/otp-input.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/avatar",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/input",
+        "fishwithwater/arc-library/otp-input"
       ],
       "files": [
         {
@@ -5431,13 +5436,13 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/animated-counter.json",
-        "https://uiarc.dev/r/avatar.json",
-        "https://uiarc.dev/r/avatar-group.json",
-        "https://uiarc.dev/r/badge.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/progress.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/animated-counter",
+        "fishwithwater/arc-library/avatar",
+        "fishwithwater/arc-library/avatar-group",
+        "fishwithwater/arc-library/badge",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/progress"
       ],
       "files": [
         {
@@ -5541,8 +5546,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button"
       ],
       "files": [
         {
@@ -5592,10 +5597,10 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/input.json",
-        "https://uiarc.dev/r/otp-input.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/input",
+        "fishwithwater/arc-library/otp-input"
       ],
       "files": [
         {
@@ -5660,8 +5665,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/segmented-control.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/segmented-control"
       ],
       "files": [
         {
@@ -5711,9 +5716,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/segmented-control.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/segmented-control"
       ],
       "files": [
         {
@@ -5768,13 +5773,13 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/avatar.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/copy-button.json",
-        "https://uiarc.dev/r/line-chart.json",
-        "https://uiarc.dev/r/segmented-control.json",
-        "https://uiarc.dev/r/sparkline.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/avatar",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/copy-button",
+        "fishwithwater/arc-library/line-chart",
+        "fishwithwater/arc-library/segmented-control",
+        "fishwithwater/arc-library/sparkline"
       ],
       "files": [
         {
@@ -5944,9 +5949,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/search-field.json",
-        "https://uiarc.dev/r/segmented-control.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/search-field",
+        "fishwithwater/arc-library/segmented-control"
       ],
       "files": [
         {
@@ -6001,13 +6006,13 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/avatar.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/copy-button.json",
-        "https://uiarc.dev/r/input.json",
-        "https://uiarc.dev/r/segmented-control.json",
-        "https://uiarc.dev/r/textarea.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/avatar",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/copy-button",
+        "fishwithwater/arc-library/input",
+        "fishwithwater/arc-library/segmented-control",
+        "fishwithwater/arc-library/textarea"
       ],
       "files": [
         {
@@ -6117,7 +6122,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -6157,7 +6162,7 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json"
+        "fishwithwater/arc-library/arc-motion-tokens"
       ],
       "files": [
         {
@@ -6196,8 +6201,8 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/segmented-control.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/segmented-control"
       ],
       "files": [
         {
@@ -6252,9 +6257,9 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/button.json",
-        "https://uiarc.dev/r/segmented-control.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/button",
+        "fishwithwater/arc-library/segmented-control"
       ],
       "files": [
         {
@@ -6320,10 +6325,10 @@
         "motion"
       ],
       "registryDependencies": [
-        "https://uiarc.dev/r/arc-motion-tokens.json",
-        "https://uiarc.dev/r/animated-counter.json",
-        "https://uiarc.dev/r/segmented-control.json",
-        "https://uiarc.dev/r/switch.json"
+        "fishwithwater/arc-library/arc-motion-tokens",
+        "fishwithwater/arc-library/animated-counter",
+        "fishwithwater/arc-library/segmented-control",
+        "fishwithwater/arc-library/switch"
       ],
       "files": [
         {

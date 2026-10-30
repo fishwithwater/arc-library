@@ -5,8 +5,8 @@
 .group::-webkit-scrollbar { display: none; }
 .sm { --bg-h: var(--control-height-sm); --bg-pad-x: 12px; --bg-divider-inset: 9px; }
 .md { --bg-h: var(--control-height-md); }
-/* Solid is the primary group: the foreground fill of a primary button, with the highlight and dividers mixed from the page color. */
-.solid { --bg-divider: color-mix(in oklab, var(--background) 20%, var(--foreground)); --bg-highlight: color-mix(in oklab, var(--background) 13%, var(--foreground)); --bg-highlight-pressed: color-mix(in oklab, var(--background) 22%, var(--foreground)); --bg-muted-ink: color-mix(in oklab, var(--background) 72%, var(--foreground)); border-color: var(--foreground); background: var(--foreground); color: var(--background); }
+/* Solid is the primary group: the shared primary fill, with theme-aware highlights and dividers. */
+.solid { --bg-divider: color-mix(in oklab, var(--primary-foreground) 20%, var(--primary)); --bg-highlight: var(--primary-hover); --bg-highlight-pressed: var(--primary-active); --bg-muted-ink: var(--primary-foreground); border-color: var(--primary); background: var(--primary); color: var(--primary-foreground); }
 .vertical { flex-direction: column; overflow: visible; --bg-divider-inset: 10px; }
 .group[aria-disabled="true"] { opacity: .52; }
 

@@ -1,0 +1,164 @@
+/* Shared interaction palette: six roles for every component, not six tokens per component.
+ * Set data-accent and data-theme on <html>. Override these six roles on :root for a custom brand.
+ * Filled backgrounds and their foregrounds are explicit pairs; text on a surface uses primary-text.
+ * Hover/active keep the same foreground and move away from it to preserve text contrast.
+ */
+:root,
+:root[data-accent="neutral"] {
+  --primary: #262626;
+  --primary-foreground: #fff;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #000);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #000);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #171717;
+}
+
+:root[data-accent="violet"] {
+  --primary: #7747ff;
+  --primary-foreground: #fff;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #000);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #000);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #5528ce;
+}
+
+:root[data-accent="blue"] {
+  --primary: #0562ef;
+  --primary-foreground: #fff;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #000);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #000);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #074db7;
+}
+
+:root[data-accent="green"] {
+  --primary: #0db879;
+  --primary-foreground: #102016;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #087c54;
+}
+
+:root[data-accent="amber"] {
+  --primary: #f3ad20;
+  --primary-foreground: #20190d;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #885600;
+}
+
+:root[data-accent="orange"] {
+  --primary: #f48120;
+  --primary-foreground: #17130f;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #aa4700;
+}
+
+:root[data-accent="coral"] {
+  --primary: #f15f55;
+  --primary-foreground: #21110f;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #b92c27;
+}
+
+:root[data-accent="rose"] {
+  --primary: #ed4e9d;
+  --primary-foreground: #250f1b;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 12%, transparent);
+  --primary-text: #ae2570;
+}
+
+:root[data-theme="dark"],
+:root[data-theme="dark"][data-accent="neutral"] {
+  --primary: #ededed;
+  --primary-foreground: #202020;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #e8e8e8;
+}
+
+:root[data-theme="dark"][data-accent="violet"] {
+  --primary: #a78bff;
+  --primary-foreground: #20162f;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #c7b7ff;
+}
+
+:root[data-theme="dark"][data-accent="blue"] {
+  --primary: #6ba3ff;
+  --primary-foreground: #10203a;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #a4c7ff;
+}
+
+:root[data-theme="dark"][data-accent="green"] {
+  --primary: #53dca6;
+  --primary-foreground: #102016;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #93efd0;
+}
+
+:root[data-theme="dark"][data-accent="amber"] {
+  --primary: #ffcb62;
+  --primary-foreground: #20190d;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #ffe0a1;
+}
+
+:root[data-theme="dark"][data-accent="orange"] {
+  --primary: #ffad5e;
+  --primary-foreground: #17130f;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #ffd0a0;
+}
+
+:root[data-theme="dark"][data-accent="coral"] {
+  --primary: #ff9386;
+  --primary-foreground: #21110f;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #ffc1ba;
+}
+
+:root[data-theme="dark"][data-accent="rose"] {
+  --primary: #ff8bc5;
+  --primary-foreground: #250f1b;
+  --primary-hover: color-mix(in oklab, var(--primary) 90%, #fff);
+  --primary-active: color-mix(in oklab, var(--primary) 80%, #fff);
+  --primary-subtle: color-mix(in oklab, var(--primary) 20%, transparent);
+  --primary-text: #ffc0df;
+}
+
+/* Compatibility names used by existing Arc components. New components use the six primary roles.
+ * Keep aliases on the same theme root as the primary values so changing data-accent updates both.
+ */
+:root {
+  --accent: var(--primary);
+  --accent-foreground: var(--primary-foreground);
+  --accent-strong: var(--primary-text);
+  --accent-subtle: var(--primary-subtle);
+  --control-on: var(--primary);
+  --control-glyph: var(--primary-foreground);
+  --control-fill: var(--primary);
+  --control-on-subtle: var(--primary-subtle);
+}

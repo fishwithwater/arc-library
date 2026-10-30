@@ -131,6 +131,14 @@ A few favorites, recorded live from [uiarc.dev](https://uiarc.dev). Items marked
 
 ## Install
 
+For this fork, install directly from GitHub:
+
+```sh
+npx shadcn@latest add fishwithwater/arc-library/arc-foundation fishwithwater/arc-library/button
+```
+
+The `@uiarc` namespace and `uiarc.dev` installation examples below refer to the upstream distribution. Use `fishwithwater/arc-library/<item>` for this fork.
+
 ### Requirements
 
 - **React 19** with TypeScript. The source compiles under `strict`, `noUncheckedIndexedAccess` and `verbatimModuleSyntax`, and needs `lib` ES2023 or newer (a few items use `findLast`)
@@ -242,7 +250,7 @@ The code is yours: edit it, rename it, move it. There is no runtime package to k
 
 ## Theming
 
-Components read semantic tokens, never raw colors. Change a token in `foundation.css` (`components/arc/foundation.css` after a CLI install) and every component follows, in both themes.
+Components read shared semantic tokens. `foundation.css` imports `theme-colors.css` automatically; both files are installed by `arc-foundation`. Put application overrides after the foundation import. This fork uses six shared primary roles for actions and selections; see [TOKENS.md](./TOKENS.md) for custom themes and upstream update guidance.
 
 | Token | Used for |
 | --- | --- |
@@ -250,7 +258,9 @@ Components read semantic tokens, never raw colors. Change a token in `foundation
 | `--surface`, `--surface-raised`, `--surface-muted` | Cards and inputs, floating layers, quiet fills |
 | `--foreground`, `--text-secondary`, `--text-muted` | Primary, supporting and hint text |
 | `--border`, `--border-subtle`, `--border-strong` | Separators and edges |
-| `--accent`, `--accent-strong`, `--accent-subtle` | Selection, progress and helpful context |
+| `--primary`, `--primary-foreground` | Primary actions, selected controls and their text/glyphs |
+| `--primary-hover`, `--primary-active` | Hover and pressed primary fills |
+| `--primary-subtle`, `--primary-text` | Tinted selection backgrounds and theme-colored text |
 | `--success`, `--warning`, `--danger` | Status, always paired with a label |
 | `--radius-control`, `--radius-panel`, `--radius-surface` | Controls, menus, cards |
 | `--font-display`, `--font-body` | Geist for headings, Inter for everything else |
@@ -259,7 +269,11 @@ Components read semantic tokens, never raw colors. Change a token in `foundation
 - **Accent:** set `data-accent` on `<html>` to `neutral`, `violet`, `blue`, `green`, `amber`, `orange`, `coral` or `rose`.
 - **Motion:** springs and durations live in `lib/motion-tokens.ts` (`components/arc/lib/motion-tokens.ts` after a CLI install). Every animation respects `prefers-reduced-motion`.
 
-More in the [theming docs](https://uiarc.dev/docs/theming) and [motion docs](https://uiarc.dev/docs/motion).
+The legacy `accent*` and selected `control-*` names remain aliases. Customize the shared `primary*` roles for consistent results across components.
+
+After source changes, run `npm run build:registry` and `npm run check` to regenerate and validate install files.
+
+See [TOKENS.md](./TOKENS.md) for this fork’s theme contract and the upstream [motion docs](https://uiarc.dev/docs/motion) for animation guidance.
 
 ## Components
 
